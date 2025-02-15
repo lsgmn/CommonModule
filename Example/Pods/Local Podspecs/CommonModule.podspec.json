@@ -1,0 +1,22 @@
+{
+  "name": "CommonModule",
+  "version": "0.1.0",
+  "summary": "A short description of CommonModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/851229468@qq.come/CommonModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "851229468@qq.come": "851229468@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/851229468@qq.come/CommonModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "CommonModule/Classes/**/*"
+}
